@@ -1,10 +1,10 @@
-##url
+## url
 arthurnone.com
 
-##about
+## about
 This is a minimalist personal blog built using flask.
 
-##skills
+## skills
 
 - python3
 - flask
