@@ -1,0 +1,26 @@
+# python
+*.pyc
+script/
+utils/
+local_config.py
+*.conf
+init.py
+
+# mac
+.DS_Store
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# other
+nohup.out
+
+# log
+*.log
+
